@@ -253,6 +253,8 @@ INSTALLED_APPS = (
     "mezzanine.twitter",
     # "mezzanine.accounts",
     # 'django-extensions'
+    "polls",
+    "rest_framework"
 )
 
 # List of middleware classes to use. Order is important; in the request phase,
